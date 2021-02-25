@@ -1,0 +1,55 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    font-size: 14px;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(218, 28%, 13%);
+}
+.navbar
+
+.btn{
+    background-color: hsl(176, 68%, 64%);
+    border-radius: 25px;
+    color: hsl(0, 0%, 100%);
+    width: 250px;
+    height: 50px;
+}
+
+.btn:hover{
+    background-color: hsl(198, 60%, 50%);
+    border-radius: 25px;
+    color: hsl(0, 0%, 100%);
+    width: 250px;
+    height: 50px;
+}
+    .first-testy1{
+        float:right;
+        margin-top: -70px;
+        width: 30%;
+        padding: 10px;
+        box-sizing: border-box;
+        background-color: hsl(219, 30%, 18%) ;
+        background-image: url('bg-quotes.png');
+        
+    }
+    .first-testy{
+        float:right;
+        margin-top: -70px;
+        width: 30%;
+        padding: 10px;
+        box-sizing: border-box;
+        background-color: hsl(219, 30%, 18%) ;
+        
+    }
+
+    .first-testy h3{
+
+    }
+    .profile-pic{
+        width: 40px;
+        border-radius: 50%;
+    }
+
+    footer{
+       background-color: hsl(216, 53%, 9%);
+    }
